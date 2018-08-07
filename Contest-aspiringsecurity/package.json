@@ -1,0 +1,17 @@
+{
+  "name": "github.com/preetiw/newsappexpo:newsapp",
+  "version": "0.0.0",
+  "description": "PreetiW/NewsAppExpo @ Aug 5, 2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-animatable": "1.3.0",
+    "react-native-elements": "^0.19.1",
+    "react-navigation": "2.11.2",
+    "react-test-renderer": "16.4.2"
+  }
+}
